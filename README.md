@@ -1,7 +1,8 @@
 
 # UK Job Change by Sector Analysis 📊🇬🇧
 
-![Project Banner](https://example.com/your-image-url)
+![image](https://github.com/user-attachments/assets/d73c0b5b-8e96-4ae0-85e5-f6ab740dc4f6)
+
 
 ## Overview
 This project analyses job changes by sector in the UK. Using Excel data tables and Tableau for visualization, we highlight key trends and insights across various industries.
