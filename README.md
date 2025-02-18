@@ -1,5 +1,5 @@
 
-# UK Job Change by Sector Analysis 📊🇬🇧
+# UK Job Change by Sector Analysis 
 
 ![image](https://github.com/user-attachments/assets/d73c0b5b-8e96-4ae0-85e5-f6ab740dc4f6)
 
@@ -20,12 +20,13 @@ This project analyses job changes by sector in the UK. Using Excel data tables a
 
 ## Findings
 📊 Key findings from the analysis:
-- Growth in jobs within the retail industry 🛍️.
+- Largest industry change was in professional, technical and scientific activities🛍️.
 
 ## Visualizations
 Below are some of the visualizations created using Tableau:
 
-![image](https://github.com/user-attachments/assets/e9561926-4af0-4b37-bde0-d9857f3dd557)
+![image](https://github.com/user-attachments/assets/02e035e2-2bc1-41dc-ae73-8d6c5662e879)
+
 
 _Figure 2: Job Growth in Retail_
 
